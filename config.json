@@ -65,15 +65,6 @@
 			]
 		}
 	],
-	"simpleParachains": [
-		{
-			"bin": "./bin/adder-collator",
-			"id": "400",
-			"port": "31400",
-			"name": "alice",
-			"balance": "1000000000000000000000"
-		}
-	],
 	"hrmpChannels": [
 		{
 			"sender": 200,
